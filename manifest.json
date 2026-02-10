@@ -1,0 +1,21 @@
+{
+  "name": "Presensi PPG",
+  "short_name": "Presensi",
+  "description": "Aplikasi Presensi PPG Wonogiri Timur 4",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#25D366",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
