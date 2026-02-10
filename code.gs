@@ -3,7 +3,7 @@ var ID_SPREADSHEET = "1N2iOckLvv7GTTdEpG3nGuO8vDEeNeXCOYQW8TJdBOWw";
 // -------------------
 
 function doGet() {
-  return HtmlService.createHtmlOutputFromFile('Index')
+  return HtmlService.createHtmlOutputFromFile('index')
       .setTitle("Presensi Hybrid PPG")
       .addMetaTag('viewport', 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0');
 }
